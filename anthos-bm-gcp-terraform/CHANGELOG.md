@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.13.2](https://github.com/GoogleCloudPlatform/anthos-samples/compare/v0.13.1...v0.13.2) (2022-12-16)
+
+
+### Bug Fixes
+
+* **deps:** update github.com/icrowley/fake digest to d7b7e22 ([#494](https://github.com/GoogleCloudPlatform/anthos-samples/issues/494)) ([1602445](https://github.com/GoogleCloudPlatform/anthos-samples/commit/1602445eb3e03bf24cb7f8408c35f5fc6d3d766b))
+* **deps:** update module github.com/gruntwork-io/terratest to v0.41.0 ([#486](https://github.com/GoogleCloudPlatform/anthos-samples/issues/486)) ([a98ec02](https://github.com/GoogleCloudPlatform/anthos-samples/commit/a98ec02442df6c482d9330ee3e96e7452bdad3b7))
+* **deps:** update module github.com/gruntwork-io/terratest to v0.41.3 ([#507](https://github.com/GoogleCloudPlatform/anthos-samples/issues/507)) ([28bf9fd](https://github.com/GoogleCloudPlatform/anthos-samples/commit/28bf9fdfe39f7333fb5da87b038e7d342901f166))
+
 ## [0.13.1](https://github.com/GoogleCloudPlatform/anthos-samples/compare/v0.13.0...v0.13.1) (2022-11-02)
 
 
